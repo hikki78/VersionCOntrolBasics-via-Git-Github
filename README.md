@@ -1,1 +1,1 @@
-# GitBasic-CheatSheet
+# VersionControlBasics-via-Git-&-Github
